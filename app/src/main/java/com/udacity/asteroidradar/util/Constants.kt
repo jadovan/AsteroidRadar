@@ -4,5 +4,6 @@ object Constants {
     const val API_QUERY_DATE_FORMAT = "YYYY-MM-dd"
     const val DEFAULT_END_DATE_DAYS = 7
     const val BASE_URL = "https://api.nasa.gov/"
-    const val API_KEY = "r6ryCoyVbs1mDV4i3r65z4MhlFbVXuHXYXp6gh0j"
+    //removed API Key, please enter your API Key below
+    const val API_KEY = /*enter your API key here*/ " "
 }
